@@ -82,7 +82,7 @@ skills:
       - name: Photography
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: 
         icon_pack: fas
 
 # Social/Academic Networking
