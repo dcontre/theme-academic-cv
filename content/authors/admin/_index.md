@@ -50,21 +50,20 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R for archaeology
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+        percent: 50
+        icon: r
+        icon_pack: devicon
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Excavation
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 70
+        icon: custom/trowel
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -79,10 +78,10 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Biking
         description: ''
         percent: 80
-        icon: 
+        icon: person-biking
         icon_pack: fas
 
 # Social/Academic Networking
@@ -92,10 +91,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:daniel.contreras@ufl.edu'
+  - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Kh1BP9cAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/dcontre
