@@ -10,4 +10,9 @@ publication_types:
 publication: '*The Archaeology of Human-Environment Interaction: Strategies for Investigating
   Anthropogenic Landscapes, Dynamic Environments, and Climate Change in the Human
   Past*'
+featured: true
+image:
+  caption: 'Thumbnail'
+  focal_point: ''
+  preview_only: false
 ---
