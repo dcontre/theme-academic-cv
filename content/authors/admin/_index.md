@@ -53,7 +53,7 @@ skills:
       - name: R for archaeology
         description: ''
         percent: 50
-        icon: r
+        icon: r-plain
         icon_pack: devicon
       - name: Data Science
         description: ''
@@ -103,7 +103,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

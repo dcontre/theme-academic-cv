@@ -3,7 +3,7 @@ title: Interpreting Geochemically Characterized Obsidian from Chavín de Huánta
 authors:
 - Daniel A. Contreras
 - Kristin Nado
-date: in press-01-01
+date: in press
 publishDate: '2024-04-15T00:02:16.854601Z'
 publication_types:
 - chapter
