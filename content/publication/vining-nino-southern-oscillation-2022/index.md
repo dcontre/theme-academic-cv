@@ -40,4 +40,6 @@ tags:
 - Sentinel 2
 - Terrestrial ecology
 - Vegetation time series
+- CHEAP
+- Chicama
 ---

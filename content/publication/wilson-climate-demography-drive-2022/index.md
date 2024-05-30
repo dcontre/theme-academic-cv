@@ -1,21 +1,21 @@
 ---
 title: Climate and Demography Drive 7000 Years of Dietary Change in the Central Andes
-authors:
-- e̊lax KM Wilson
-- \l̊ax WC McCool
-- \råx SC Brewer
-- N Zamora-Wilson
-- \rex̊ PJ Schryver
-- \rel ̊RLF Lamson
-- \relaÅM Huggard
-- J Brenner Coltrain
-- \relaxÅ Contreras
-- \relax ̊ Codding
+authors: 
+  - KM Wilson
+  - WC McCool
+  - SC Brewer
+  - N Zamora-Wilson
+  - PJ Schryver 
+  - RLF Lamson
+  - AM Huggard
+  - J Brenner Coltrain
+  - DA Contreras
+  - BF Codding
 date: '2022-01-01'
 publishDate: '2024-04-15T00:02:17.123504Z'
 publication_types:
 - article-journal
-publication: '*Scientifc Reports*'
+publication: '*Scientific Reports*'
 abstract: Explaining the factors that influence past dietary variation is critically
   important for understanding changes in subsistence, health, and status in past societies;
   yet systematic studies comparing possible driving factors remain scarce. Here we
@@ -36,4 +36,6 @@ abstract: Explaining the factors that influence past dietary variation is critic
   on diet during that time. The overall findings and approach establish a general
   framework for understanding the influence of local climate and demography on dietary
   change across human history.
+tags:
+- Central Andes
 ---
