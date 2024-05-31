@@ -242,10 +242,9 @@ sections:
         postcode: '32605'
         country: United States
         country_code: US
-      directions: Wander the basement of Turlington Hall and hope for the best.
+      directions: Looking for B346? Wander the basement of Turlington Hall and hope for the best.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Wednesday 13:00 to 15:00 and by appt'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: ' 29.649331'
