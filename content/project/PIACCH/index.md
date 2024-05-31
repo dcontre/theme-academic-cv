@@ -1,6 +1,6 @@
 ---
 title: Programa de Investigación Arqueológica y Conservación Chavín de Huántar
-summary: Deciphering communal action problmes at a 1st millennium BCE monumental center in highland Peru. 
+summary: Exploring communal action problems at the 1st millennium BCE monumental center - and World Heritage Site - of Chavín de Huántar in highland Ancash, Peru. 
 tags:
   - PIACCH
 date: "2016-04-27T00:00:00Z"
