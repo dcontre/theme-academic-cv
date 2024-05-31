@@ -16,4 +16,6 @@ publication_types:
 - chapter
 publication: '*From Maple to Olive: Proceedings of a Colloquium to Celebrate the 40th
   Anniversary of the Canadian Institute in Greece, 10-11 June 2016*'
+tags: 
+- SNAP
 ---

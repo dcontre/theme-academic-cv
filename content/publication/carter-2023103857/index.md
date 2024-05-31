@@ -36,4 +36,5 @@ tags:
 - Pre-Pottery Neolithic A
 - southern Levant
 - southwest Asian Neolithic
+- obsidian
 ---

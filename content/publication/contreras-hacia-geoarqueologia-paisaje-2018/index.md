@@ -11,4 +11,6 @@ publication: '*Monumentos, Ancestros y Tiempo. Una Arqueología Del Paisaje Haci
   Desde Sudamérica*'
 tags: 
 - Chavín
+- Central Andes
+- geoarchaeology
 ---

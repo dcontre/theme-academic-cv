@@ -15,6 +15,8 @@ doi: https://doi.org/10.1007/s10816-023-09634-5
 tags: 
 - Great Basin
 - dates-as-data
+- geoarchaeology
+- R for archaeology
 image:
   caption: 'Image credit: D. Contreras'
   focal_point: ""

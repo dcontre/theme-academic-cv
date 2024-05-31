@@ -9,4 +9,6 @@ publication_types:
 publication: '*Museo Nacional Chavín*'
 tags: 
 - Chavín
+- Central Andes
+- geoarchaeology
 ---

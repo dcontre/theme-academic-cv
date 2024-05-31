@@ -26,13 +26,10 @@ abstract: The documentation and analysis of archaeological lithics must navigate
   Paleolithic and Mesolithic chert quarry, has necessarily confronted challenges of
   processing and analyzing large quantities of lithic material. 
 tags:
-- análisis lítico
-- arqueologá de canteras
-- base de datos
-- database
 - lithic analysis
 - quarry archaeology
 - R
 - R Shiny
 - SNAP
+- R for archaeology
 ---

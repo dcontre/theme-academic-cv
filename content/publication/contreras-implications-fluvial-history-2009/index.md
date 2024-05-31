@@ -12,4 +12,6 @@ publication: '*Geoarchaeology*'
 doi: 10.1002/gea.20279
 tags:
 - Chavín
+- Central Andes
+- geoarchaeology
 ---

@@ -31,4 +31,5 @@ tags:
 - Peru
 - Chavín
 - Central Andes
+- R for archaeology
 ---
