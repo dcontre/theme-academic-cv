@@ -1,5 +1,5 @@
 ---
-title: SNAP
+title: The Stelida Naxos Archaeological Project
 summary: The Stelida Naxos Archaeological Project
 tags: 
 - SNAP 

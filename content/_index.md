@@ -166,6 +166,8 @@ sections:
           tag: SCA
         - name: GB14C
           tag: GB14C
+        - name: PIACCH
+          tag: PIACCH
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -190,7 +192,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: collection
     content:
       title: Recent Publications
