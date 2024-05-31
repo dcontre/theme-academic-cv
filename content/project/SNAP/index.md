@@ -1,5 +1,6 @@
 ---
 title: The Stelida Naxos Archaeological Project
+subtitle: '*PI*: Tristan Carter (McMaster U)'
 summary: The Stelida Naxos Archaeological Project
 tags: 
 - SNAP 

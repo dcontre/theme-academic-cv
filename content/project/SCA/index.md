@@ -1,5 +1,6 @@
 ---
 title: Scaling the Central Andes
+subtitle: '*PI*: Daniel Contreras (U Florida), Kurt Wilson (Lawrence U), Nick Gauthier (U Florida), John Krigbaum (U Florida)'
 summary: Downscaling paleoclimate data to explore Holocene human-environment interactions in the Central Andes.
 tags:
   - SCA

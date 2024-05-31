@@ -1,6 +1,7 @@
 ---
 title: Landscape taphonomy in the Bonneville Basin
 summary: Integrating archaeological and geomorphic data to improve reconstruction of past population dynamics by accounting for landscape taphonomy.
+subtitle: '*PI*: Daniel Contreras (U Florida), Brian Codding (U Utah)'
 tags:
   - GB14C
 date: '2024-05-22'

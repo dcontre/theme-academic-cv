@@ -1,6 +1,7 @@
 ---
 title: RAPT
 summary: Research on the Archaeology of Pastoralism in Tanzania.
+subtitle: '*PI*: Kate Grillo (U Florida), Mary Prendergast (Rice U)'
 tags:
   - RAPT
 date: "2016-04-27T00:00:00Z"
