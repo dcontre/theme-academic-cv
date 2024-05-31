@@ -13,14 +13,16 @@ publishDate: '2024-04-15T00:02:17.016435Z'
 publication_types:
 - article-journal
 publication: '*Antiquity*'
-abstract: $<$jats:p$>$Common assumptions about the ephemeral archaeological signature
+doi: 10.15184/aqy.2021.59
+abstract: Common assumptions about the ephemeral archaeological signature
   of pastoralist settlements have limited the application of geophysical techniques
   in the investigation of past herding societies. Here, the authors present a geophysical
   survey of Luxmanda, Tanzania, the largest-known settlement documented for the Pastoral
-  Neolithic era in eastern Africa ($<$jats:italic$>$c.$<$/jats:italic$>$ 5000--1200
-  BP). The results demonstrate the value and potential of fluxgate gradiometry for
+  Neolithic era in eastern Africa (c. 5000-1200 BP). The results demonstrate the value and potential of fluxgate gradiometry for
   the identification of magnetic anomalies relating to archaeological features, at
   a category of site where evidence for habitation was long thought to be undetectable.
   The study provides comparative data to enable archaeologists to identify loci for
   future investigations of mobile populations in eastern Africa and elsewhere.
+tags: 
+- RAPT
 ---

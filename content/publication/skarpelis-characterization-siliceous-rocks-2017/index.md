@@ -9,7 +9,11 @@ authors:
 - Danica D Mihailović
 date: '2017-01-01'
 publishDate: '2024-04-15T00:02:17.083489Z'
+doi: 10.1016/j.jasrep.2016.11.015
 publication_types:
 - article-journal
 publication: '*Journal of Archaeological Science: Reports*'
+tags: 
+- SNAP
+- geoarchaeology
 ---

@@ -13,4 +13,6 @@ doi: 10.15021/00010048
 tags: 
 - Chavín
 - Central Andes
+- chronology
+- radiocarbon
 ---

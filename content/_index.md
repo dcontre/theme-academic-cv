@@ -168,6 +168,8 @@ sections:
           tag: GB14C
         - name: PIACCH
           tag: PIACCH
+        - name: RAPT
+          tag: RAPT
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -192,7 +194,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: compact
+      view: card
   - block: collection
     content:
       title: Recent Publications
