@@ -7,4 +7,6 @@ publishDate: '2024-04-15T00:02:16.817888Z'
 publication_types:
 - chapter
 publication: '*Museo Nacional Chavín*'
+tags: 
+- Chavín
 ---

@@ -10,4 +10,7 @@ publication_types:
 - chapter
 publication: '*Mining and Quarrying in the Ancient Andes: Sociopolitical, Economic
   and Symbolic Dimensions*'
+tags: 
+- obsidian
+- Central Andes
 ---

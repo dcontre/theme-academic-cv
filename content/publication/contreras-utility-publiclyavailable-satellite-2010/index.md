@@ -9,4 +9,7 @@ publishDate: '2024-04-15T00:02:17.004462Z'
 publication_types:
 - article-journal
 publication: '*Journal of Field Archaeology*'
+doi: 10.1179/009346910X12707320296838
+tags:
+- looting
 ---

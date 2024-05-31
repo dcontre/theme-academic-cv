@@ -9,4 +9,6 @@ publishDate: '2024-04-15T00:02:16.805780Z'
 publication_types:
 - chapter
 publication: '*Métodos Cronométricos En Historia y Arqueología*'
+tags: 
+- dates-as-data
 ---

@@ -8,4 +8,8 @@ publication_types:
 - chapter
 publication: '*Rituals of the Past: Prehispanic and Colonial Case Studies in Andean
   Archaeology*'
+doi: 10.5876/9781607325963.c003
+tags: 
+- Chavín
+- Central Andes
 ---

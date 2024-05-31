@@ -15,7 +15,7 @@ abstract: The landscape around the prehistoric Peruvian ceremonial center of Cha
   necessary to characterize these changes in detail. This paper reports on the use
   of GIS-based interpolation tools to approximate a complex prehistoric land surface
   using unevenly scattered point data. Such an interpolated surface serves as the
-  basis for the reconstruction of the pre-Chavń landscape and assessment of landscape
+  basis for the reconstruction of the pre-Chavín landscape and assessment of landscape
   change contemporary with the site.
 tags:
 - Chavín
@@ -23,4 +23,5 @@ tags:
 - Interpolation
 - Landscape
 - Peru
+- Central Andes
 ---

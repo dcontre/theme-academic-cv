@@ -8,4 +8,8 @@ publishDate: '2024-04-15T00:02:16.918441Z'
 publication_types:
 - chapter
 publication: '*The Archaeology of Anthropogenic Environments*'
+tags: 
+- Chavín
+- Central Andes
+- geoarchaeology
 ---

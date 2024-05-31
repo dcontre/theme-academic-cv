@@ -10,4 +10,7 @@ publishDate: '2024-04-15T00:02:16.860617Z'
 publication_types:
 - article-journal
 publication: '*Investigaciones Sociales*'
+tags: 
+- obsidian
+- Central Andes
 ---

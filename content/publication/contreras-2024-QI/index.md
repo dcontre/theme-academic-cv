@@ -25,9 +25,10 @@ abstract: Using the Central Andean Chavín Phenomenon as a case study, this pape
   while high-level summary of radiocarbon assemblages can identify where additional
   dating and Bayesian modeling can have the greatest interpretive impact.
 tags:
-- Archaeological radiocarbon
+- radiocarbon
 - Chavín phenomenon
 - Early Horizon
 - Peru
-- Chavín de Huántar
+- Chavín
+- Central Andes
 ---

@@ -24,22 +24,7 @@ abstract: The documentation and analysis of archaeological lithics must navigate
   of this tool (termed the Queryable Artifact Recording Interface [QuARI]) using the
   example of the Stelida Naxos Archaeological Project (SNAP), which, focused on a
   Paleolithic and Mesolithic chert quarry, has necessarily confronted challenges of
-  processing and analyzing large quantities of lithic material. ,  La documentación
-  y análisis de materiales líticos tiene que navegar una tensión entre examinar y
-  documentar artefactos individuales o sumas de artefactos. Esta tensión presenta
-  un desafó tanto para el procesamiento de artefactos como para la construcción de
-  bases de datos. Aqu'ṕresentamos una solución realizado en R Shiny lo cual hace posible
-  que los analistas de l'ićos puedan introducir datos para artefactos individuales
-  y sumas de artefactos, mientras se mantiene una estructura de datos robusta pero
-  flexible. Esta estructura resulta ser un interfaz en el navegador que emplea R para
-  interrogar datos existentes y transformar datos nuevos cuando sea necesario, para
-  que los usuarios ---mientras introduzcan datos de resoluciones varias--- puedan
-  producir datos con una estructura basada en el artefacto individual. Demostramos
-  la herramienta (denominada Queryable Artifact Recording Interface [QuARI]) tras
-  el ejemplo del Proyecto Arqueológico Stelida Naxos (SNAP, por sus signos en ingles),
-  lo cual, por enfocarse en una cantera l'itá paleol'iti ́y mesol'itic ́necesariamente
-  se ha enfrentado con los desaf'ios dṕrocesar y analizar cantidades grandes de material
-  l'itico.
+  processing and analyzing large quantities of lithic material. 
 tags:
 - análisis lítico
 - arqueologá de canteras
@@ -49,4 +34,5 @@ tags:
 - quarry archaeology
 - R
 - R Shiny
+- SNAP
 ---

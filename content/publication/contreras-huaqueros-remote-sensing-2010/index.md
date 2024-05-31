@@ -8,4 +8,6 @@ publishDate: '2024-04-15T00:02:16.836529Z'
 publication_types:
 - article-journal
 publication: '*Antiquity*'
+tags:
+- looting
 ---

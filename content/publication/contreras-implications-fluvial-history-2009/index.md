@@ -9,4 +9,7 @@ publishDate: '2024-04-15T00:02:16.842401Z'
 publication_types:
 - article-journal
 publication: '*Geoarchaeology*'
+doi: 10.1002/gea.20279
+tags:
+- Chavín
 ---

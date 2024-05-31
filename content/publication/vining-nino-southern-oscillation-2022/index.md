@@ -42,4 +42,5 @@ tags:
 - Vegetation time series
 - CHEAP
 - Chicama
+- Central Andes
 ---

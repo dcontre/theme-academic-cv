@@ -11,4 +11,6 @@ publishDate: '2024-04-15T00:02:16.717753Z'
 publication_types:
 - article-journal
 publication: '*Journal of Mediterranean Archaeology*'
+tags: 
+- obsidian
 ---

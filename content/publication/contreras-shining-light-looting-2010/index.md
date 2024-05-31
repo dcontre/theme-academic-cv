@@ -9,4 +9,6 @@ publishDate: '2024-04-15T00:02:16.973931Z'
 publication_types:
 - article-journal
 publication: '*SAA Archaeological Record*'
+tags:
+- looting
 ---

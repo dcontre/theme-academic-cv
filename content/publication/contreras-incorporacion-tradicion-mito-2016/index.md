@@ -7,4 +7,6 @@ publishDate: '2024-04-15T00:02:16.848557Z'
 publication_types:
 - chapter
 publication: '*Arqueología de La Sierra de Ancash 2: Cronologá y Espacio*'
+tags: 
+- Chavín
 ---

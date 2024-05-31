@@ -12,4 +12,6 @@ publishDate: '2024-04-15T00:02:16.743693Z'
 publication_types:
 - chapter
 publication: '*Géoarchéologie Des Îles de La Méditerranée*'
+tags:
+- SNAP
 ---

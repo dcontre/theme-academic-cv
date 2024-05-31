@@ -10,4 +10,6 @@ publication_types:
 - chapter
 publication: '*All The Kings Horses: Essays on the Impact of Looting and the Illicit
   Antiquities Trade on Our Knowledge of the Past*'
+tags:
+- looting
 ---

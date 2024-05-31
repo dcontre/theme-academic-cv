@@ -9,4 +9,8 @@ publication_types:
 - chapter
 publication: '*New Perspectives on the Early Formation of the Andean Civilization:
   Chronology, Interaction, and Social Organization*'
+doi: 10.15021/00010048
+tags: 
+- Chavín
+- Central Andes
 ---
