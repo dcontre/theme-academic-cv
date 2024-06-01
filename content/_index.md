@@ -210,12 +210,12 @@ sections:
       columns: '2'
       view: citation
   # - block: collection
-  #   id: talks
+  #   id: courses
   #   content:
-  #     title: Recent & Upcoming Talks
+  #     title: Recent & Regular Courses
   #     filters:
   #       folders:
-  #         - event
+  #         - course
   #   design:
   #     columns: '2'
   #     view: compact
