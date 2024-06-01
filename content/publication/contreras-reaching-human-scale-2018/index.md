@@ -17,4 +17,5 @@ tags:
 - past agricultural productivity
 - human-environment interaction
 - downscaling
+- R for archaeology
 ---

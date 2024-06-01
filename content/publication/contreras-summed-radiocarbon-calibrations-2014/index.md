@@ -14,4 +14,5 @@ abstract: The logic of using summed radiocarbon (14C) calibrations (cumulative p
 tags: 
 - radiocarbon
 - dates-as-data
+- R for archaeology
 ---

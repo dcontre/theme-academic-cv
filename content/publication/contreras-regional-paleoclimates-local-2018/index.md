@@ -21,4 +21,5 @@ abstract: Holocene climate variability in the Mediterranean Basin is often cited
 tags: 
 - past agricultural productivity
 - human-environment interactions
+- R for archaeology
 ---
