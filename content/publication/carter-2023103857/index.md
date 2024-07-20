@@ -1,5 +1,5 @@
 ---
-title: 'Cappadocian Obsidian Exchange Networks in the Pre-Pottery Neolithic a: A Southern
+title: 'Cappadocian Obsidian Exchange Networks in the Pre-Pottery Neolithic A: A Southern
   Levantine Perspective from El-Hemmeh (Jordan)'
 authors:
 - Tristan Carter
