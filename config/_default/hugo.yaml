@@ -62,3 +62,5 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+google_site_verification: "MmTXQvpDIGbo7fBVP6AmxKS9ida9XHnye0-lgzejatA" # your google-site-verification ID (Google Search Console)
+enable_google_verification: true  # enables google site verification
