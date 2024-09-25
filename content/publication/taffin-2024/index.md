@@ -16,5 +16,5 @@ publishDate: '2024-09-25T01:16:41.845115Z'
 publication_types:
 - article-journal
 publication: '*Journal of Archaeological Science: Reports*'
-doi:10.1016/j.jasrep.2024.104776
+doi: 10.1016/j.jasrep.2024.104776
 ---
