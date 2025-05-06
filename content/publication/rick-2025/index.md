@@ -14,6 +14,7 @@ publishDate: '2025-05-06T14:06:21.135895Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'
+featured: true
 doi: 10.1073/pnas.2425125122
 abstract: Ritual is broadly accepted as an important locus of social interaction in
   the pre-Hispanic Central Andes, and research into the development of durable sociopolitical
@@ -30,4 +31,13 @@ abstract: Ritual is broadly accepted as an important locus of social interaction
   These results are direct evidence of psychoactive plants in archaeological bone
   tubes used as inhalers and the northernmost direct evidence of vilca and Nicotiana
   use in the pre-Hispanic Andes.
+tags: 
+- Chavín
+- Central Andes
+- Peru
+- psychoactives
+image:
+  caption: 'Image credit: M. Ortiz'
+  focal_point: ""
+  preview_only: false
 ---
