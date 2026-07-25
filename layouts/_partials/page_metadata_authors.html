@@ -12,9 +12,9 @@
 {{- if gt $index 0 }}, {{ end -}}
 {{- if $profile.is_owner -}}
 {{- if $termPage -}}
-[**{{ $display }}**]({{ $termPage.RelPermalink }})
+[<strong>{{ $display }}</strong>]({{ $termPage.RelPermalink }})
 {{- else -}}
-**{{ $display }}**
+<strong>{{ $display }}</strong>
 {{- end -}}
 {{- else -}}
 {{- if $termPage -}}
