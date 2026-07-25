@@ -1,0 +1,24 @@
+{{/* Display author list. */}}
+{{- $authors := .Params.authors -}}
+{{ if $authors }}
+{{- if not (reflect.IsSlice $authors) -}}
+{{- $authors = slice $authors -}}
+{{- end -}}
+{{ range $index, $raw := $authors }}
+{{- $slug := $raw | urlize -}}
+{{- $profile := partial "functions/get_author_profile" (dict "slug" $slug "title" $raw) -}}
+{{- $termPage := site.GetPage (printf "/authors/%s" $slug) -}}
+{{- $display := $profile.title | default $raw -}}
+{{- if gt $index 0 }}, {{ end -}}
+{{- if $profile.is_owner -}}
+{{- if $termPage -}}[**{{ $display }}**]({{ $termPage.RelPermalink }}){{- else -}}**{{ $display }}**{{- end -}}
+{{- else -}}
+{{- if $termPage -}}[{{ $display }}]({{ $termPage.RelPermalink }}){{- else -}}{{ $display }}{{- end -}}
+{{- end -}}
+{{- if isset $.Params "author_notes" -}}
+{{- with (index $.Params.author_notes $index) -}}
+{{.}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
