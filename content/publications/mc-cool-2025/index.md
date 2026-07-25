@@ -2,11 +2,11 @@
 title: Climate stability and low population pressure predict peaceful interactions
   over 10,000 years of Central Andean history
 authors:
-- Weston C McCool
-- Kurt M Wilson
-- Elizabeth N Arkush
-- Daniel A Contreras
-- Brian F Codding
+- Weston C. McCool
+- Kurt M. Wilson
+- Elizabeth N. Arkush
+- Daniel A. Contreras
+- Brian F. Codding
 date: '2025-01-01'
 publishDate: '2026-07-21T08:36:01.298775Z'
 doi: 10.1126/sciadv.adt9007
