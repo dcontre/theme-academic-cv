@@ -3,7 +3,7 @@ title: 'Spherulites and Aspiring Elites: The Identification, Distribution, and C
   of Giali Obsidian (Dodecanese, Greece).'
 authors:
 - Tristan Carter
-- Daniel A Contreras
+- Daniel A. Contreras
 - Kathryn Campeau
 - Kyle Freund
 date: '2016-01-01'

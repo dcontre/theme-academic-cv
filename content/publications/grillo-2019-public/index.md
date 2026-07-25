@@ -3,7 +3,7 @@ title: "Public Archaeology's Mammoth in the Room: Engaging Wikipedia as a Tool f
   Teaching and Outreach"
 authors:
 - Katherine M Grillo
-- Daniel A Contreras
+- Daniel A. Contreras
 date: '2019-01-01'
 publishDate: '2024-04-15T00:02:17.029348Z'
 publication_types:

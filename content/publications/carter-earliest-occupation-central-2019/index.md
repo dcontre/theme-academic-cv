@@ -3,9 +3,9 @@ title: "Earliest Occupation of the Central Aegean (Naxos), Greece: Implications 
   Hominin and Homo Sapiens' Behavior and Dispersals"
 authors:
 - Tristan Carter
-- Daniel A Contreras
+- Daniel A. Contreras
 - Justin Holcomb
-- Danica D Mihailović
+- Danica D. Mihailović
 - Panagiotis Karkanas
 - Guillaume Guérin
 - Ninon Taffin

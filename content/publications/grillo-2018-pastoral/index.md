@@ -3,7 +3,7 @@ title: Pastoral Neolithic Settlement at Luxmanda, Tanzania
 authors:
 - Katherine M Grillo
 - Mary E Prendergast
-- Daniel A Contreras
+- Daniel A. Contreras
 - Tom Fitton
 - Agness O Gidna
 - Steven T Goldstein

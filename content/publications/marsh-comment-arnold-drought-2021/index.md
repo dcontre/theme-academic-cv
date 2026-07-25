@@ -3,7 +3,7 @@ title: "Comment on Arnold et~al. ``Drought and the Collapse of the Tiwanaku Civi
   New Evidence from Lake Orurillo, Peru'' [Quat. Sci. Rev. 251 (2021): 106693]"
 authors:
 - Erik J. Marsh
-- Daniel Contreras
+- Daniel A. Contreras
 - Maria C. Bruno
 - Alexei Vranich
 - Andrew P. Roddick

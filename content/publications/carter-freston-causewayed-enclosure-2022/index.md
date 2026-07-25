@@ -7,7 +7,7 @@ authors:
 - Rose Moir
 - Peter Allen
 - Helene Burningham
-- Daniel Contreras
+- Daniel A. Contreras
 - Tim Schofield
 - Richard Tipping
 date: '2022-01-01'

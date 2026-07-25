@@ -4,7 +4,7 @@ authors:
 - Tristan Carter
 - Kristine Mallinson
 - Vagia Mastrogiannopoulou
-- Daniel A Contreras
+- Daniel A. Contreras
 - Charlotte Diffey
 - Claudette Lopez
 - Marie N Pareja
