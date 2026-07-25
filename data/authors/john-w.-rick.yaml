@@ -1,6 +1,6 @@
 schema: hugoblox/author/v1
 slug: john-w.-rick
-is_owner: fals
+is_owner: false
 name:
   display: John W. Rick
   given: John
