@@ -11,10 +11,13 @@
 {{- $display := $profile.title | default $raw -}}
 {{- if gt $index 0 }}, {{ end -}}
 {{- if $profile.is_owner -}}
-{{- if $profile.is_owner -}}
 🔥🔥🔥{{ $display }}🔥🔥🔥
 {{- else -}}
+{{- if $termPage -}}
+[{{ $display }}]({{ $termPage.RelPermalink }})
+{{- else -}}
 {{ $display }}
+{{- end -}}
 {{- end -}}
 {{- if isset $.Params "author_notes" -}}
 {{- with (index $.Params.author_notes $index) -}}
