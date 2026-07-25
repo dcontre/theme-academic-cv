@@ -2,7 +2,7 @@
 # Display name
 title: Daniel A. Contreras
 slug: "daniel-a.-contreras"
-highlight_name: true
+
 
 # Full name (for SEO)
 first_name: Daniel
