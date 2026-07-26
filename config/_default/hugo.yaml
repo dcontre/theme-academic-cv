@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Daniel A. Contreras'
 # Website URL
-baseURL: 'https://dcontre.github.io/theme-academic-cv/'
+baseURL: 'https://dcontre.github.io/academic/'
 
 ############################
 ## LANGUAGE
